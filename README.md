@@ -10,7 +10,7 @@ Advanced SEO techniques to improve organic reach
 Performance optimization for web applications
 Enhancing frontend design patterns in React
 
-💼 Portfolio:https://vidyanandportfolio.vercel.app/
+💼 Portfolio : https://vidyanandportfolio.vercel.app/
 Check out my Portfolio Website for a showcase of my projects, code samples, and notable contributions.
 💼 LinkedIn : https://www.linkedin.com/in/vidyanand-kumar-0a8580148/
 
